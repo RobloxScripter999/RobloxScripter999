@@ -1,0 +1,2 @@
+Wait 5 Minutes for it to work!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sianyomama/adoptmehub/main/script", true))()
