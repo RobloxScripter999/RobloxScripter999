@@ -1,0 +1,2 @@
+Best Adopt Me Pet Spawner Script wait 5 min to work
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sianyomama/adoptmehub/main/script", true))()
